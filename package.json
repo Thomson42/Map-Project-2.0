@@ -1,0 +1,22 @@
+{
+  "name": "map-project-2.0",
+  "version": "1.0.0",
+  "description": "An updated version of my origonal map project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomson42/Map-Project-2.0.git"
+  },
+  "keywords": [
+    "district"
+  ],
+  "author": "Christopher Thomson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomson42/Map-Project-2.0/issues"
+  },
+  "homepage": "https://github.com/Thomson42/Map-Project-2.0#readme"
+}
